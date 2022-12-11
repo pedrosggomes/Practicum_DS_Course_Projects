@@ -1,7 +1,7 @@
-## Introduction <a name="introduction"></a>
+## Introduction 
 Project for Yandex Practicum Course - 2nd Integrated Project for Yandex Practicum Data Science Course
     
-## Project Description <a name="paragraph1"></a>
+## Project Description 
 
 
 + **Main goals of the project:**
@@ -9,7 +9,7 @@ Project for Yandex Practicum Course - 2nd Integrated Project for Yandex Practicu
     + The model haves the main goal to optimize the process of production for the company Zyfra, i.e. eliminate unprofitable parameters;
 
 
-## Description of the data <a name="paragraph2"></a>
+## Description of the data
 
 + **Technological process**
 
@@ -32,7 +32,7 @@ Project for Yandex Practicum Course - 2nd Integrated Project for Yandex Practicu
     + feed size — feed particle size
     + feed rate
 
-## Feature naming: <a name="paragraph3"></a>
+## Feature naming: 
     
 + **Possible values for [stage]:**
 
