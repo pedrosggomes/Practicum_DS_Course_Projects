@@ -1,6 +1,6 @@
 # Practicum_DS_Course_Projects
 
-Some selected projects created for the Data Science Professional Training by [Yandex Practicum USA](https://practicum.com/) 
+Some of the created projects for the Data Science Professional Training by [Yandex Practicum USA](https://practicum.com/) 
 
 
 #### 01 - Machine Learning for Business - Project Description
