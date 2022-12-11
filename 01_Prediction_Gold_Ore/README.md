@@ -1,6 +1,3 @@
-## Introduction 
-Project for Yandex Practicum Course - 2nd Integrated Project for Yandex Practicum Data Science Course
-    
 ## Project Description 
 
 
